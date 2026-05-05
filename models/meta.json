@@ -1,0 +1,163 @@
+{
+  "parts": [
+    "bumper",
+    "door",
+    "hood",
+    "headlight",
+    "windshield",
+    "tyre",
+    "fender",
+    "mirror"
+  ],
+  "damages": [
+    "dent",
+    "scratch",
+    "crack",
+    "shatter",
+    "no_damage"
+  ],
+  "segments": [
+    "hatchback",
+    "sedan",
+    "suv",
+    "luxury",
+    "ev"
+  ],
+  "severities": [
+    "minor",
+    "moderate",
+    "severe",
+    "critical"
+  ],
+  "feature_dim": 256,
+  "cost_base": {
+    "bumper|dent": [
+      4000,
+      9000
+    ],
+    "bumper|scratch": [
+      1500,
+      4500
+    ],
+    "bumper|crack": [
+      3000,
+      8000
+    ],
+    "bumper|shatter": [
+      8000,
+      18000
+    ],
+    "door|dent": [
+      6000,
+      20000
+    ],
+    "door|scratch": [
+      2000,
+      6000
+    ],
+    "door|crack": [
+      5000,
+      15000
+    ],
+    "door|shatter": [
+      15000,
+      35000
+    ],
+    "hood|dent": [
+      7000,
+      22000
+    ],
+    "hood|scratch": [
+      2500,
+      7500
+    ],
+    "hood|crack": [
+      8000,
+      25000
+    ],
+    "hood|shatter": [
+      20000,
+      45000
+    ],
+    "headlight|dent": [
+      2000,
+      5000
+    ],
+    "headlight|scratch": [
+      1000,
+      3000
+    ],
+    "headlight|crack": [
+      3000,
+      8000
+    ],
+    "headlight|shatter": [
+      5000,
+      15000
+    ],
+    "windshield|dent": [
+      3000,
+      8000
+    ],
+    "windshield|scratch": [
+      1500,
+      4000
+    ],
+    "windshield|crack": [
+      5000,
+      18000
+    ],
+    "windshield|shatter": [
+      12000,
+      40000
+    ],
+    "tyre|dent": [
+      1000,
+      3000
+    ],
+    "tyre|scratch": [
+      500,
+      2000
+    ],
+    "tyre|crack": [
+      2000,
+      6000
+    ],
+    "tyre|shatter": [
+      4000,
+      12000
+    ],
+    "fender|dent": [
+      5000,
+      15000
+    ],
+    "fender|scratch": [
+      2000,
+      6000
+    ],
+    "fender|crack": [
+      4000,
+      12000
+    ],
+    "fender|shatter": [
+      10000,
+      25000
+    ],
+    "mirror|dent": [
+      1500,
+      4000
+    ],
+    "mirror|scratch": [
+      800,
+      2500
+    ],
+    "mirror|crack": [
+      2000,
+      5000
+    ],
+    "mirror|shatter": [
+      3000,
+      8000
+    ]
+  }
+}
