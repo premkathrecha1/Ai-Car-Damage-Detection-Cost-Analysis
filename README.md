@@ -1,22 +1,6 @@
 # 🔍 AutoScan AI — Car Damage Detection System
 
-Real-time AI system for car damage detection, severity analysis, repair cost estimation, and online part sourcing. **Fully offline, no API keys needed.**
-
----
-
-## Quick Start (2 steps)
-
-```bash
-# 1. Install dependencies
-pip install -r requirements.txt
-
-# 2. Launch everything (trains models if needed, then starts server)
-python run.py
-```
-
-Then open **http://localhost:5000** in your browser.
-
----
+Real-time AI system for car damage detection, severity analysis, repair cost estimation, and online part sourcing. **Fully offline, no API keys needed.*
 
 ## What It Does
 
